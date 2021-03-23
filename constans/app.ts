@@ -1,0 +1,1 @@
+export const URL_API_ALBUM = 'https://jsonplaceholder.typicode.com/albums';
