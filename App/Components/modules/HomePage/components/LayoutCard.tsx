@@ -1,6 +1,7 @@
 import { AlbumDetail } from "../../../../../models/album";
 import AlbumCard from "./AlbumCard";
 import styles from './LayoutCard.module.scss';
+
 interface LayoutCardProps {
   albumsDetailt: AlbumDetail[];
 }

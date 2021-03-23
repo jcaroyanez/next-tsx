@@ -23,7 +23,7 @@ const AlbumCard = ({album}: albumProps) => {
           image={album.url}
           title="album img"/>
           <CardContent>
-            <Typography gutterBottom variant="h5" component="h2">
+            <Typography gutterBottom variant="h6" component="h3">
               {album.title}
             </Typography>
           </CardContent>
